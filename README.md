@@ -1,4 +1,5 @@
-# Hi there, I'm Aamna! 👋  
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&width=600&height=100&lines=Hi+there%2C+I'm+Aamna+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 I'm a first-year Computer Science student at UBC, excited to explore the endless possibilities in tech and design. I’m all about learning, experimenting, and growing through every opportunity I find!  
 
 ✨ **What I’m up to:**  
@@ -10,11 +11,12 @@ I'm a first-year Computer Science student at UBC, excited to explore the endless
 💡 **Curiosity is my compass, and I’m eager to learn and collaborate to turn ideas into solutions.**  
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-### Let’s connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamna-mushtaq/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamnamushtaq07@gmail.com)  
+## 🔗 Lets Connect! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamna-mushtaq/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamnamushtaq07@gmail.com)  
 
 ---
 
