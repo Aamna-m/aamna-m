@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&width=600&height=100&lines=Hi+there%2C+I'm+Aamna+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a first-year Computer Science student at UBC, excited to explore the endless possibilities in tech and design. I’m all about learning, experimenting, and growing through every opportunity I find!  
+I'm a first-year Computer Science student at UBC, excited to explore the endless possibilities in tech and design. I love learning, exploring new things, and growing with every opportunity I encounter!
 
 ✨ **What I’m up to:**  
 - 📚 Studying Computer Science at UBC  
