@@ -4,9 +4,7 @@ I'm a second-year Computer Science student at UBC, excited to explore the endles
 
 ✨ **What I’m up to:**  
 - 📚 Studying Computer Science at UBC  
-- ⚡️ Events Executive for [**UBC Bolt**](https://www.boltbootcamps.com/): A club combining business and data analytics, where I help organize case competitions and hackathons.  
-- 🤖 Delving into **Machine Learning** and understanding how it powers innovation.  
-- 🎨 Learning **UX Design** with **Figma** to create impactful, user-friendly experiences.  
+- 🤖 Delving into **Machine Learning** and understanding how it powers innovation. 
 
 💡 **Curiosity is my compass, and I’m eager to learn and collaborate to turn ideas into solutions.**  
 
